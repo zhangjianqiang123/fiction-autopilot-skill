@@ -1,0 +1,6 @@
+interface:
+  display_name: "小说全流程自动写作"
+  short_description: "按阶段生成小说项目、章节正文和记忆档案"
+  default_prompt: "Use $fiction-autopilot to create a checkpointed Chinese novel project from my title and brief."
+policy:
+  allow_implicit_invocation: true
