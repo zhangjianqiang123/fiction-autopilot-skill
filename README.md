@@ -281,7 +281,8 @@ python -m py_compile skills/fiction-autopilot/scripts/*.py
 - 它不会自动调用后端服务。
 - 它不能保证每次生成的正文都达到出版级质量，但会通过流程和脚本拦截明显问题。
 - 高质量长篇仍需要人工确认、修订和阶段性复盘。
-
+- 完整小说写作平台前往	aixiaoshuo.cloud
+- 更多咨询联系985018505@qq.com
 ## License
 
 MIT
